@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Petite | Luxury Girls' Fashion House",
+  "description": "Global luxury fashion boutique for girls. Discover bespoke dresses, occasion wear, heirloom knitwear, and contemporary tailored sets crafted with timeless craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
